@@ -114,9 +114,4 @@ Você pode testar a API usando:
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
 
----
 
-## Licença
-
-Este projeto é open-source e livre para uso educacional.  
-Feito com 💙 para ajudar estudantes a desenvolverem seus TCCs de forma ética e consciente.
